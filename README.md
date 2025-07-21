@@ -117,7 +117,10 @@ TetrisGame/
 ##  📸 Screenshot & 📽️ Gameplay Demo
 
 Click the image below to watch the gameplay !\
-[![Watch Gameplay](images/preview2.jpg)](https://github.com/bilalxfna/TETRIS/releases/download/fna.v1/TETRIS.Final.Gameplay.mp4)
+
+<a href="https://github.com/bilalxfna/TETRIS/releases/download/fna.v1/TETRIS.Final.Gameplay.mp4">
+  <img src="images/preview2.jpg" width="400"/>
+</a>
 
 ---
 
