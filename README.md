@@ -116,8 +116,7 @@ TetrisGame/
 
 ## 📸 Screenshots
 
-<img src="images/preview1.jpg" width="300">
-<img src="images/preview2.jpg" width="300">
+<img src="images/preview1.jpg" width="300"> <img src="images/preview2.jpg" width="300">
 
 ---
 
