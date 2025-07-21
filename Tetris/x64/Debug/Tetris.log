@@ -1,0 +1,132 @@
+﻿  Source.cpp
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Manager.h(57,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Manager.h(57,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Manager.h(172,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Manager.h(172,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Manager.h(236,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(86,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(423,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(424,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(425,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(426,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(427,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(428,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(429,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(485,69): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(485,69): warning C4244:         with
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(485,69): warning C4244:         [
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(485,69): warning C4244:             T=float
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(485,69): warning C4244:         ]
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(485,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(485,43): warning C4244:         with
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(485,43): warning C4244:         [
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(485,43): warning C4244:             T=float
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(485,43): warning C4244:         ]
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(491,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(491,68): warning C4244:         with
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(491,68): warning C4244:         [
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(491,68): warning C4244:             T=float
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(491,68): warning C4244:         ]
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(491,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(491,51): warning C4244:         with
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(491,51): warning C4244:         [
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(491,51): warning C4244:             T=float
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(491,51): warning C4244:         ]
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(492,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(497,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(498,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(498,59): warning C4244:         with
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(498,59): warning C4244:         [
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(498,59): warning C4244:             T=float
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(498,59): warning C4244:         ]
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(499,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(499,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(542,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(551,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(551,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(555,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(555,61): warning C4244:         with
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(555,61): warning C4244:         [
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(555,61): warning C4244:             T=float
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(555,61): warning C4244:         ]
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(555,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(555,47): warning C4244:         with
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(555,47): warning C4244:         [
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(555,47): warning C4244:             T=float
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(555,47): warning C4244:         ]
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(556,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(556,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(571,90): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(571,90): warning C4244:         with
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(571,90): warning C4244:         [
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(571,90): warning C4244:             T=float
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(571,90): warning C4244:         ]
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(571,72): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(571,72): warning C4244:         with
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(571,72): warning C4244:         [
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(571,72): warning C4244:             T=float
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(571,72): warning C4244:         ]
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(572,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(593,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(593,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(598,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(598,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(604,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(604,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(609,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(609,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(615,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(615,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(620,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(620,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(638,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(638,77): warning C4244:         with
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(638,77): warning C4244:         [
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(638,77): warning C4244:             T=float
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(638,77): warning C4244:         ]
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(638,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(638,63): warning C4244:         with
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(638,63): warning C4244:         [
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(638,63): warning C4244:             T=float
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(638,63): warning C4244:         ]
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(639,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(639,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(663,71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(663,71): warning C4244:         with
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(663,71): warning C4244:         [
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(663,71): warning C4244:             T=float
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(663,71): warning C4244:         ]
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(663,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(663,45): warning C4244:         with
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(663,45): warning C4244:         [
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(663,45): warning C4244:             T=float
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(663,45): warning C4244:         ]
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(664,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(673,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(678,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(681,60): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(683,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(688,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(691,63): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(693,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(698,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(939,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(939,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(952,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(952,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(973,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(973,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(997,49): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Source.cpp(999,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bilal\Documents\Games\2D Games\Tetris\Tetromino.h(65,1): warning C4715: 'Tetromino::selectTetro': not all control paths return a value
+  Tetris.vcxproj -> C:\Users\Bilal\Documents\Games\2D Games\x64\Debug\Tetris.exe
