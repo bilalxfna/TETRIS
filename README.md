@@ -91,11 +91,11 @@ TetrisGame/
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/Tetris-CPP.git
-   cd Tetris-CPP
+   git clone https://github.com/bilalxfna/Tetris-Classic.git
+   cd Tetris-Classic
    ```
 
-2. Open `Tetris.sln` in Visual Studio
+2. Open `TETRIS.sln` in Visual Studio
 
 3. Make sure SFML is properly linked:
    - **Include directories** for `SFML/include`
